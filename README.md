@@ -76,15 +76,8 @@
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanjay26445&show_icons=true&theme=tokyonight"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay26445&layout=compact&theme=tokyonight"/>
-</p>
 
----
 
 # 🔥 GitHub Streak
 
@@ -102,13 +95,8 @@
 
 ---
 
-# 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanjay26445&theme=tokyonight"/>
-</p>
 
----
 
 # 🌐 Portfolio
 
@@ -136,7 +124,7 @@ https://ieeexplore.ieee.org/document/11294220
 # 👁 Visitor Counter
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sanjay26445&label=Profile%20Views&color=12&icon=5&pretty=true"/>
+  <img src="https://komarev.com/ghpvc/?username=Sanjay26445&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
