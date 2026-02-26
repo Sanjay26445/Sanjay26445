@@ -37,10 +37,14 @@
 
 # 📊 GitHub Stats
 
+# 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanjay26445&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay26445&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay26445&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay26445&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
@@ -63,10 +67,11 @@
 
 # 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanjay26445&theme=tokyonight&row=1&column=7" />
-</p>
+# 🏆 Achievements
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanjay26445&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+</p>
 ---
 
 # 🧠 Featured Projects
