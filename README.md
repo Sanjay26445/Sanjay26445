@@ -10,7 +10,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanjay26445&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Sanjay26445&count_bg=%23007EC6&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Profile%20Views&edge_flat=false"/>
 </p>
 
 ---
@@ -35,19 +35,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjay26445&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjay26445&show_icons=true&theme=github_dark" />
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -64,14 +51,7 @@
 
 ---
 
-# 🏆 Achievements
 
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjay26445&show_icons=true&theme=github_dark" />
-</p>
----
 
 # 🧠 Featured Projects
 
