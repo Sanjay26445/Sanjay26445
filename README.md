@@ -8,12 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sanjay;Python+Developer;Django+Full+Stack+Developer;Machine+Learning+Engineer;Data+Science+Enthusiast;Open+to+Software+Developer+Roles" />
 </p>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sanjay26445&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</p>
 
----
 
 # 💫 About Me
 
