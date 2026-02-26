@@ -37,14 +37,13 @@
 
 # 📊 GitHub Stats
 
-# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay26445&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjay26445&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay26445&layout=compact&theme=tokyonight&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjay26445&show_icons=true&theme=github_dark" />
 </p>
 
 ---
@@ -70,7 +69,7 @@
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanjay26445&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjay26445&show_icons=true&theme=github_dark" />
 </p>
 ---
 
