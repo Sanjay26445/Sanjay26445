@@ -1,113 +1,110 @@
-Hi there 👋, I'm Sanjay
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,50:0083B0,100:005C97&height=220&section=header&text=Sanjay%20%7C%20Python%20Developer%20%7C%20ML%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-🎓 MCA Graduate | 💻 Python & Django Developer | 📊 Data Science Enthusiast | 🤖 Machine Learning Learner
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sanjay;Python+Developer;Django+Full+Stack+Developer;Machine+Learning+Engineer;Data+Science+Enthusiast;Open+to+Software+Developer+Roles" />
+</p>
 
-🚀 About Me
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sanjay26445&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-🎓 MCA Graduate with strong foundation in Computer Science
+---
 
-💻 Skilled in Python, Django, Machine Learning, and Web Development
+# 💫 About Me
 
-📊 Experienced in Data Analysis, Visualization, and Prediction Models
+🎓 MCA Graduate  
+💻 Python, Django Full Stack Developer  
+🤖 Machine Learning & Data Science Enthusiast  
+📊 Built real-world prediction systems using LSTM and XGBoost  
+🌐 Developed full-stack Django web applications  
+📍 Karnataka, India  
+🎯 Open to Software Developer / Python Developer / Data Analyst roles  
 
-🤖 Built ML projects using LSTM, XGBoost, and Random Forest
+---
 
-🌐 Developed full-stack web applications using Django
+# 🚀 Tech Stack
 
-📍 Based in Karnataka, India
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,java,cpp,cs,js,html,css,mysql,sqlite,git,github,vscode,tensorflow" />
+</p>
 
-🎯 Currently looking for Software Developer / Python Developer / Data Analyst roles
+---
 
-🛠️ Skills
-💻 Programming Languages
+# 📊 GitHub Stats
 
-Python
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanjay26445&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay26445&layout=compact&theme=tokyonight"/>
+</p>
 
-Java
+---
 
-C++
+# 🔥 GitHub Streak
 
-C#
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sanjay26445&theme=tokyonight" />
+</p>
 
-JavaScript
+---
 
-🌐 Web Development
+# 📈 Activity Graph
 
-Django
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay26445&theme=tokyo-night"/>
+</p>
 
-HTML
+---
 
-CSS
+# 🏆 Achievements
 
-JavaScript
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanjay26445&theme=tokyonight&row=1&column=7" />
+</p>
 
-Bootstrap
+---
 
-📊 Data Science & Machine Learning
+# 🧠 Featured Projects
 
-Pandas
+🚔 Crime Analysis and Prediction System  
+• ML models using LSTM and XGBoost  
+• Django dashboard with visualization  
 
-NumPy
+🌍 Tourist Destination Recommendation System  
+• ML-based safety recommendation  
+• Interactive visualization  
 
-Scikit-learn
+🌾 Agriculture Chatbot  
+• Kannada language chatbot  
+• Farmer assistance system  
 
-TensorFlow / Keras
+---
 
-XGBoost
+# 🌐 Connect With Me
 
-Data Visualization
+<p align="center">
 
-🗄️ Database
+<a href="https://github.com/Sanjay26445">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
 
-MySQL
+<!-- Add your LinkedIn here -->
+<!--
+<a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+-->
 
-SQLite
+</p>
 
-⚙️ Tools
+---
 
-Git & GitHub
-
-VS Code
-
-Jupyter Notebook
-
-📌 Projects
-🔹 Crime Analysis and Prediction System
-
-Built ML models (LSTM, XGBoost) to predict crime trends
-
-Created interactive dashboard using Django
-
-Visualized crime hotspots using maps and charts
-
-🔹 Tourist Destination Recommendation System
-
-Recommended safest tourist places using data analysis
-
-Used ML and visualization techniques
-
-🔹 Agriculture Chatbot (Kannada)
-
-Built chatbot to help farmers
-
-Supported Kannada language
-
-📊 GitHub Stats
-
-🔥 GitHub Streak
-
-🌐 Connect With Me
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
-Email: your@email.com
-
-💡 Career Objective
-
-To obtain a challenging position as a Software Developer where I can use my skills in Python, Django, and Machine Learning to build efficient and scalable applications while continuously learning and growing.
-
-⚡ Fun Fact
-
-I enjoy solving real-world problems using data and building intelligent systems.
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,50:0083B0,100:005C97&height=120&section=footer"/>
+</p>
